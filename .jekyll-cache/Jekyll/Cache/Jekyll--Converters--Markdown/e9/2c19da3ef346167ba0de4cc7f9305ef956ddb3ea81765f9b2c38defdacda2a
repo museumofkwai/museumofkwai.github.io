@@ -1,4 +1,4 @@
-I" U<div class="container">
+I"�X<div class="container">
     
 
     
@@ -11,26 +11,28 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/welcome-to-jekyll/">
+    <a href="/welcome-to-museum/">
     <div class="topfirstimage" style="background-image: url( /assets/images/three_silly_orange_banner.jpeg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/welcome-to-jekyll/">Welcome to Museum!</a>
+    <a class="text-dark" href="/welcome-to-museum/">歡迎來到博物館</a>
     </h2>
     <p class="excerpt">
-        You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s...
+        唔經唔覺，呀虧嘅禿頭獅子形象已面世兩年有多。自面世以來，因其可愛、貼地、多變且無厘頭嘅形象深受推友喜愛。佢係好多推友嘅謬斯，佢嘅存在可以為推友帶來源源不絕嘅靈感。喺短短兩年之間，眾推友以呀虧為主角所創作嘅作品已有數百份，平均每日就有一份作品面世。2022年年中，一班...
     </p>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
                 
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#博物館">博物館</a><span class="sep">, </span>
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#委員會">委員會</a><span class="sep">, </span>
                 
                 </span>                   
         </small>
         <small class="text-muted">
-            Feb 04, 2019
+            Sep 15, 2022
         </small>
     </div>
     </div>
@@ -61,7 +63,7 @@
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        Feb 03, 2019
+                        Feb 04, 2020
                     </small>
                 </div>
             </div>
@@ -199,26 +201,28 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/welcome-to-jekyll/">Welcome to Museum!</a>
+	<a class="text-dark" href="/welcome-to-museum/">歡迎來到博物館</a>
 	</h2>
 	<p class="excerpt">
-	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	   唔經唔覺，呀虧嘅禿頭獅子形象已面世兩年有多。自面世以來，因其可愛、貼地、多變且無厘頭嘅形象深受推友喜愛。佢係好多推友嘅謬斯，佢嘅存在可以為推友帶來源源不絕嘅靈感。喺短短兩年之間，眾推友以呀虧為主角所創作嘅作品已有數百份，平均每日就有一份作品面世。2022年年中，一班喜愛虧獅嘅推友組成「國立呀虧美術館委員會」，希望將推友創作嘅呀虧作品集結成冊。從開始籌備到本書發佈經...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#博物館">博物館</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#委員會">委員會</a><span class="sep">, </span>
 		
 		</span>
 	</small>
 	<small class="text-muted">
-		Feb 04, 2019
+		Sep 15, 2022
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/welcome-to-jekyll/">
-	<img class="w-100" src="/assets/images/three_silly_orange_banner.jpeg" alt="Welcome to Museum!" />
+	<a href="/welcome-to-museum/">
+	<img class="w-100" src="/assets/images/three_silly_orange_banner.jpeg" alt="歡迎來到博物館" />
 	</a>
 	</div>
 
@@ -244,7 +248,7 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Feb 03, 2019
+		Feb 04, 2020
 	</small>
 </div>
 

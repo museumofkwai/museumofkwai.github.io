@@ -14,7 +14,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/welcome-to-jekyll/">Welcome to Museum!</a>
+	<a class="text-dark" href="/welcome-to-museum/">Welcome to Museum!</a>
 	</h2>
 	<p class="excerpt">
 	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
@@ -27,12 +27,12 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Feb 04, 2019
+		Sep 15, 2022
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/welcome-to-jekyll/">
+	<a href="/welcome-to-museum/">
 	<img class="w-100" src="/assets/images/three_silly_orange_banner.jpeg" alt="Welcome to Museum!" />
 	</a>
 	</div>
@@ -62,7 +62,7 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Feb 03, 2019
+		Feb 04, 2020
 	</small>
 </div>
 
@@ -626,7 +626,7 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Feb 03, 2019
+		Feb 04, 2020
 	</small>
 </div>
 
