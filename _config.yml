@@ -1,6 +1,6 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Museum Of Kwai'
+description: 'Happy Annivary of Took C.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -20,19 +20,21 @@ plugins:
   
 authors:
     sal:
-      name:           Took C
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      name:           sal
+      avatar:         ./assets/images/avatar1.jpg
       bio:            "Took C in HK Twitter!"
-      email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/museumofkwai
 
     jane:
-      name:           Kyutori
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      name:           jane
+      avatar:         ./assets/images/avatar2.jpg
       bio:            "Kyu99!"
-      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/Kyutori1
+
+    kyutori:
+      name:           kyutori
+      avatar:         ./assets/images/icon_kyutori1.jpeg
+      bio:            "Kyu99!"
       twitter:        https://twitter.com/Kyutori1
  
 # Defaults
