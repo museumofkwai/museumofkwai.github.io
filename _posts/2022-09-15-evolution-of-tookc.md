@@ -3,10 +3,18 @@ layout: post
 title:  "禿頭獅子的演變"
 categories: [ Museum, Commitee ]
 image: assets/images/tookc/tookc_yellow_sky_kill.jpeg
-tags: [早期, 演變]
+tags: [早期, 演變, featured]
 ---
 經過兩年多既時間，禿獅子圖既各種累積，其實係可以見到中間既變化。
-簡單離講就係一齊見證牙鳩出品愈離愈精良，線條上色一路比之前畫既細緻。
+簡單離講就係一齊見證牙鳩出品愈離愈精良，線條上色一路比之前畫既細緻。<br>
+
+**2020年當時既進化tag**
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr"><a href="https://twitter.com/hashtag/%E9%80%B2%E5%8C%96%E3%81%97%E3%81%A6%E3%81%9F%E3%82%89RT%E8%A6%8B%E3%81%9F%E4%BA%BA%E3%82%82%E3%81%99%E3%82%8B?src=hash&amp;ref_src=twsrc%5Etfw">#進化してたらRT見た人もする</a><br><br>虧之誕生⬅ ➡️虧之近照 <a href="https://t.co/Jp4PkDdeU9">pic.twitter.com/Jp4PkDdeU9</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1320589849502437377?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**2022年牙鳩自製既月選圖**
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">整理2020.2月（出世）到2021年嘅不同風格<br>圖有啲係喺Ipad album每個月求其揀嘅∠( ᐛ 」∠)_<br>望望下發現有啲自己已經唔記得咗點畫出嚟…… <a href="https://t.co/izTDuFEuCo">https://t.co/izTDuFEuCo</a> <a href="https://t.co/BTdXZeQmrg">pic.twitter.com/BTdXZeQmrg</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1496003498852458496?ref_src=twsrc%5Etfw">February 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+下面就一齊睇演化既詳細程～
 
 ### 開首既禿頭獅子
 <ol>

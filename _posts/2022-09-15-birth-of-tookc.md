@@ -3,7 +3,7 @@ layout: post
 title:  "禿頭獅子的誕生"
 categories: [ Museum, Commitee ]
 image: assets/images/tookc/tookc_most_love_peace.jpeg
-tags: [早期]
+tags: [早期, featured]
 ---
 呀虧本體係煉蠱派推特帳號，原用名「Kwai」，因「kwai」廣東話讀音嘅第一聲為「虧」而得名，著女裝嘅時候則會化名「葵姬」。
 口頭禪：皇天擊殺！、我要中六合彩！、錢錢、糧糧、請投稿香蕉
