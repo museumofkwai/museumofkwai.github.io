@@ -79,7 +79,7 @@ GIF圖系列既開展<br>
 開始看到畫布質地既白底
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">強行展開小組討論！<a href="https://twitter.com/hashtag/%E9%9A%A8%E6%A9%9F%E6%8E%89%E8%90%BD%E6%8E%A8%E5%8F%8B%E6%97%A5%E5%B8%B8?src=hash&amp;ref_src=twsrc%5Etfw">#隨機掉落推友日常</a> <a href="https://t.co/sT2LA9jC5w">pic.twitter.com/sT2LA9jC5w</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1402596181423783946?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </li>
-<li>用色轉變</br>
+<li>用色轉變<br>
 依度見到個color tone基本演變咗做牙鳩tone, 非常牙鳩signature<br>
 都見到線條上色陰影構圖等等成熟咗
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">好啦好啦既然你再三強調∠( ᐛ 」∠)_ <a href="https://t.co/871qjYB70R">https://t.co/871qjYB70R</a> <a href="https://t.co/qZgTbcrTgQ">pic.twitter.com/qZgTbcrTgQ</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1448500069213163529?ref_src=twsrc%5Etfw">October 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
