@@ -88,7 +88,7 @@ GIF圖系列既開展<br>
 
 ## 現時既禿頭獅子
 <ol>
-<li>兩宋將軍</br>
+<li>兩宋將軍<br>
 底色都開始港女風IG配色條
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">靚女～～𢳂多羹吖～～～🥺 <a href="https://t.co/AovPjlv6n9">pic.twitter.com/AovPjlv6n9</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1482632194980200458?ref_src=twsrc%5Etfw">January 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </li>
