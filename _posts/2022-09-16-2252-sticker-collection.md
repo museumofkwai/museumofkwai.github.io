@@ -8,25 +8,29 @@ tags: [Sticker, 合集]
 委員會幫大家整合既禿頭獅子 Sticker Collection<br> 
 祝大家使用愉快
 
-<ul>
-<li>牙鳩提供<br>
-第一set - 國獅．子鳩
+
+## 牙鳩提供<br>
+<ol>
+
+<li>國獅．子鳩
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">千萬信眾期待已久嘅禿禿國獅sticker第一彈已經上線喇！🎉🎉🎉<br>收錄新圖「國獅風火輪」、「典解個個逼害我」、季節限定「道袍施法形象」😈<br>除咗14張充滿關愛嘅新圖之外，仲收錄左眾望所歸嘅原版皇天擊殺圖以及改版大審判！<br>內容豐富，請大家多多支持，行過路過唔好錯過🙇🏿‍♀️<a href="https://t.co/T6JwKZoaK2">https://t.co/T6JwKZoaK2</a> <a href="https://t.co/mw7vCZLsDg">pic.twitter.com/mw7vCZLsDg</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1243888363049910273?ref_src=twsrc%5Etfw">March 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="https://whatsticker.online/p/272355iXAFFrt/HK/zh">Sticker Link</a>
-
-<br>
-第二set - 有頭髮邊個想做國獅<br>
-（原推已缺失未能尋獲）<br>
-<a href="https://whatsticker.online/p/291742s722KC1/HK/zh">Sticker Link</a>
-
 </li>
 
-<li>粉皮提供
+<li>有頭髮邊個想做國獅<br>
+（原推已缺失未能尋獲）<br>
+<a href="https://whatsticker.online/p/291742s722KC1/HK/zh">Sticker Link</a>
+</li>
+</ol>
+
+## 粉皮提供
+<ol>
+<li>國獅日常系列
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">終於畫好曬30幅_(´ཀ`」 ∠)_<a href="https://t.co/sQXRd6rl2A">https://t.co/sQXRd6rl2A</a><a href="https://twitter.com/hashtag/LoveKwai?src=hash&amp;ref_src=twsrc%5Etfw">#LoveKwai</a><a href="https://twitter.com/hashtag/%E4%B8%80%E6%9C%9F%E4%B8%80%E7%95%AB%E8%99%A7?src=hash&amp;ref_src=twsrc%5Etfw">#一期一畫虧</a><a href="https://twitter.com/hashtag/%E7%95%AB%E7%95%AB%E6%B4%BE?src=hash&amp;ref_src=twsrc%5Etfw">#畫畫派</a><a href="https://twitter.com/hashtag/whatsappstickers?src=hash&amp;ref_src=twsrc%5Etfw">#whatsappstickers</a> <a href="https://t.co/t9Z5TNCH89">pic.twitter.com/t9Z5TNCH89</a></p>&mdash; Pinky理髮獅✂️∋( ◍´꒳` ◍ )∈✂️畫畫派🎨虧獅無毛🦁 (@Pinky005Pinky) <a href="https://twitter.com/Pinky005Pinky/status/1251437033156833284?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://whatsticker.online/p/278795CVY8GmM/HK/zh">Sticker Link</a>
 
 </li>
-</ul>
+</ol>
 
 
