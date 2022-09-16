@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "禿頭獅子Sticker"
-author: jane
 categories: [ Collection ]
 image: assets/images/tookc/tookc_burn_burn_burn.jpeg
 tags: [Sticker, 合集]

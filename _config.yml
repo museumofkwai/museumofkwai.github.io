@@ -19,28 +19,28 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           sal
-      avatar:         ./assets/images/avatar1.jpg
-      bio:            "Took C in HK Twitter!"
-      twitter:        https://twitter.com/museumofkwai
+    # sal:
+    #   name:           sal
+    #   avatar:         ./assets/images/avatar1.jpg
+    #   bio:            "Took C in HK Twitter!"
+    #   twitter:        https://twitter.com/museumofkwai
 
-    jane:
-      name:           jane
-      avatar:         ./assets/images/avatar2.jpg
-      bio:            "Kyu99!"
-      twitter:        https://twitter.com/Kyutori1
+    # jane:
+    #   name:           jane
+    #   avatar:         ./assets/images/avatar2.jpg
+    #   bio:            "Kyu99!"
+    #   twitter:        https://twitter.com/Kyutori1
 
     kyutori:
       name:           kyutori
       avatar:         ./assets/images/icons/icon_kyutori1.jpeg
-      bio:            "Kyu99!"
+      bio:            "九鳥"
       twitter:        https://twitter.com/Kyutori1
 
     museum-committee:
       name:           Museum Committee
       avatar:         ./assets/images/icons/icon_museum_committee.jpg
-      bio:            "Kyu99!"
+      bio:            "委員會"
       twitter:        https://twitter.com/museumofkwai
 
 # Defaults
