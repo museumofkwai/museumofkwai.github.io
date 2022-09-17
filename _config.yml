@@ -30,18 +30,21 @@ authors:
     #   avatar:         ./assets/images/avatar2.jpg
     #   bio:            "Kyu99!"
     #   twitter:        https://twitter.com/Kyutori1
-
-    kyutori:
-      name:           kyutori
-      avatar:         ./assets/images/icons/icon_kyutori1.jpeg
-      bio:            "九鳥"
-      twitter:        https://twitter.com/Kyutori1
-
     museum-committee:
       name:           Museum Committee
       avatar:         ./assets/images/icons/icon_museum_committee.jpg
       bio:            "委員會"
       twitter:        https://twitter.com/museumofkwai
+    kyutori:
+      name:           Kyutori
+      avatar:         ./assets/images/icons/icon_kyutori1.jpeg
+      bio:            "九鳥"
+      twitter:        https://twitter.com/Kyutori1
+    ra:
+      name:           Ra
+      avatar:         ./assets/images/icons/icon_ra.jpg
+      bio:            "Ra"
+      twitter:        https://twitter.com/Ra_Drawing_0930
 
 # Defaults
 defaults:
