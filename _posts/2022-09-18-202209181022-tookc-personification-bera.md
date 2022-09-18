@@ -2,7 +2,7 @@
 layout: post
 title:  "虧獅擬人 - Bera 系列"
 categories: [ Collection ]
-image: assets/images/tookc/tookc_personification.jpeg
+image: assets/images/tookc/tookc_personification_bera.jpeg
 tags: [擬人, 合集, bera]
 ---
 委員會為大家數一數擬人形象！今次帶來Bera系列！
