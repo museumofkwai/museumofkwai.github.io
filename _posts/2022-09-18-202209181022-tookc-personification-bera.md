@@ -113,6 +113,8 @@ tags: [擬人, 合集, bera]
 
 <li>泳裝<br>
 這身材是經過PS處理的嗎？
+<img src="/assets/images/tookc/tookc_personification_bera_swim.jpeg">
+
 <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">那麼就從倒序（第16棒）開始~~<br>之後每一張圖片請務必要打開！<br><br>hshs哈斯 <a href="https://t.co/W6Zu0MsPs2">pic.twitter.com/W6Zu0MsPs2</a></p>&mdash; 夜未央•牆的那邊•沒有打麻醉的病人 (@windfufu) <a href="https://twitter.com/windfufu/status/1330476372800778240?ref_src=twsrc%5Etfw">November 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
