@@ -34,6 +34,3 @@ tags: [Wallpaper, 合集, sticky]
   <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">妖其實我喺到研究緊點mooink擺休眠圖根本唔得閒😅<br>【有字版】【冇字版】【真•休眠版】<br>大家可以攞嚟做休眠圖🥺 <a href="https://t.co/TcgTi2zBJl">pic.twitter.com/TcgTi2zBJl</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1424386188589244416?ref_src=twsrc%5Etfw">August 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </li>
 </ul>
-
-送多個牙鳩既鴨鴨包（入面有一張禿獅入鏡）
-<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">今日份嘅蘇麻粗製打包，食完瞓個好覺啦🥴<a href="https://t.co/T19eUV8StA">https://t.co/T19eUV8StA</a> <a href="https://t.co/n9orOD2oAS">https://t.co/n9orOD2oAS</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1476203531811971074?ref_src=twsrc%5Etfw">December 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
