@@ -19,7 +19,7 @@ tags: [Sticker, 合集]
 </li>
 
 <li>有頭髮邊個想做國獅<br>
-（原推已缺失未能尋獲）<br>
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">【國獅sticker．第二彈】千呼萬喚始出來，猶抱頭毛半遮面<a href="https://twitter.com/hashtag/%E5%9C%8B%E7%8D%85?src=hash&amp;ref_src=twsrc%5Etfw">#國獅</a> <a href="https://twitter.com/hashtag/%E7%95%AB%E7%95%AB%E6%B4%BE?src=hash&amp;ref_src=twsrc%5Etfw">#畫畫派</a><a href="https://t.co/N5nkRO7foR">https://t.co/N5nkRO7foR</a></p>&mdash; Kyutori🔸九鳥（腦霧中）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1269527413790093313?ref_src=twsrc%5Etfw">June 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://whatsticker.online/p/291742s722KC1/HK/zh">Sticker Link</a>
 </li>
 </ol>
