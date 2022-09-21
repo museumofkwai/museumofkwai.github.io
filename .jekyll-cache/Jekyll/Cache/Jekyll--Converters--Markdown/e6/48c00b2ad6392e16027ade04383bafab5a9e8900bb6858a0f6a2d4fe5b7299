@@ -1,4 +1,4 @@
-I"c<div class="container">
+I"�<div class="container">
     
  <!--endif page url is / -->
     
@@ -13,6 +13,36 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/2252-sticker-collection/">禿頭獅子Sticker</a>
+	</h2>
+	<p class="excerpt">
+	   委員會幫大家整合既禿頭獅子 Sticker Collection 祝大家使用愉快
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#collection">Collection</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 16, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/2252-sticker-collection/">
+	<img class="w-100" src="/assets/images/tookc/tookc_burn_burn_burn.jpeg" alt="禿頭獅子Sticker" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">

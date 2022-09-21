@@ -1,4 +1,4 @@
-I"�E<div class="container">
+I"F<div class="container">
     
 
     
@@ -11,15 +11,15 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/202209181322-tookc-personification-kyutori/">
+    <a href="/202209212050-tookc-and-twitter-friends/">
     <div class="topfirstimage" style="background-image: url( /assets/images/tookc/tookc_personification_kyutori.jpeg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/202209181322-tookc-personification-kyutori/">虧獅擬人 - 九鳥 系列</a>
+    <a class="text-dark" href="/202209212050-tookc-and-twitter-friends/">禿頭獅子與他的推特朋友</a>
     </h2>
     <p class="excerpt">
-        委員會為大家數一數擬人形象！今次帶來九鳥系列！
+        委員會為大家數一數推友合照系列！
     </p>
     <div>
         <small class="d-block text-muted">
@@ -30,7 +30,7 @@
                 </span>                   
         </small>
         <small class="text-muted">
-            Sep 18, 2022
+            Sep 21, 2022
         </small>
     </div>
     </div>
@@ -42,8 +42,33 @@
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
+                <a href="/202209181322-tookc-personification-kyutori/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/tookc/tookc_personification_kyutori.jpeg" alt="虧獅擬人 - 九鳥 系列" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/202209181322-tookc-personification-kyutori/">虧獅擬人 - 九鳥 系列</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#collection">Collection</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Sep 18, 2022
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
                 <a href="/202209181314-tookc-personification-pinky/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/tookc/tookc_personification_pinky.jpeg" alt="虧獅擬人 - Pinky 系列" />
+                 <img class="w-100" src="/assets/images/tookc/tookc_personification_pinky.jpeg" alt="虧獅擬人 - Pinky 系列" />
                 </a>
                 </div>
                                 
@@ -64,11 +89,11 @@
                 </div>
             </div>
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/202209181303-tookc-personification-windfufu/">
-                 <img class="w-100" src="/assets/images/tookc/tookc_personification_windfufu.jpeg" alt="虧獅擬人 - 莫莫 系列" />
+                <img class="w-100" src="/assets/images/tookc/tookc_personification_windfufu.jpeg" alt="虧獅擬人 - 莫莫 系列" />
                 </a>
                 </div>
                                 
@@ -89,36 +114,13 @@
                 </div>
             </div>
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/202209181254-tookc-personification-tuna/">
-                <img class="w-100" src="/assets/images/tookc/tookc_personification_tuna.jpeg" alt="虧獅擬人 - Tuna 系列" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/202209181254-tookc-personification-tuna/">虧獅擬人 - Tuna 系列</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#collection">Collection</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Sep 18, 2022
-                    </small>
-                </div>
-            </div>
-        
     </div>
     
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -182,6 +184,36 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/202209212050-tookc-and-twitter-friends/">禿頭獅子與他的推特朋友</a>
+	</h2>
+	<p class="excerpt">
+	   委員會為大家數一數推友合照系列！
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#collection">Collection</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 21, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/202209212050-tookc-and-twitter-friends/">
+	<img class="w-100" src="/assets/images/tookc/tookc_personification_kyutori.jpeg" alt="禿頭獅子與他的推特朋友" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -449,36 +481,6 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/1254-tookc-paper-doll/">
 	<img class="w-100" src="/assets/images/products/tookc_paper_doll_complete.jpg" alt="禿頭獅子紙娃娃" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/2252-sticker-collection/">禿頭獅子Sticker</a>
-	</h2>
-	<p class="excerpt">
-	   委員會幫大家整合既禿頭獅子 Sticker Collection 祝大家使用愉快
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#collection">Collection</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Sep 16, 2022
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/2252-sticker-collection/">
-	<img class="w-100" src="/assets/images/tookc/tookc_burn_burn_burn.jpeg" alt="禿頭獅子Sticker" />
 	</a>
 	</div>
 
