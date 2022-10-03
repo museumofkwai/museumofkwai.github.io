@@ -3,7 +3,7 @@ layout: post
 title:  "禿頭獅子與他的推特朋友"
 categories: [Collection ]
 image: assets/images/tookc/tookc_and_twitter_friends.jpeg
-tags: [合集]
+tags: [合集, featured]
 ---
 委員會為大家數一數推友合照系列！
 
