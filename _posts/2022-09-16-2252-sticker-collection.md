@@ -29,6 +29,10 @@ tags: [Sticker, 合集]
 <a href="https://signal.art/addstickers/#pack_id=e02a7ca1b0a22e7fcb288faffa77b961&pack_key=feeaf7f3ba5cb6bac0d2587346a2f81adfe9cf98563f5b68bb7ecee32769df97">Sticker Link</a>
 
 </li>
+
+<li>老母系<br>
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">趁office冇王管搞搞老母系sticker🤪<br><br>總之主題就係同老母講嘢咁上下🤪<a href="https://t.co/GQvV6gLZ6Y">https://t.co/GQvV6gLZ6Y</a> <a href="https://t.co/tnrawAhh2a">pic.twitter.com/tnrawAhh2a</a></p>&mdash; Kyutori🔸九鳥（腦霧復健）🐦推圈罵戰滋事份子 (香港) 最佳上鏡獎 (@Kyutori1) <a href="https://twitter.com/Kyutori1/status/1583027791167377408?ref_src=twsrc%5Etfw">October 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</li>
 </ol>
 
 ## 粉皮提供
