@@ -1,4 +1,4 @@
-I"3<div class="container">
+I"3<div class="container">
     
  <!--endif page url is / -->
     
@@ -13,6 +13,36 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/202209181254-tookc-personification-tuna/">虧獅擬人 - Tuna 系列</a>
+	</h2>
+	<p class="excerpt">
+	   委員會為大家數一數擬人形象！今次帶來Tuna系列！
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#collection">Collection</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 18, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/202209181254-tookc-personification-tuna/">
+	<img class="w-100" src="/assets/images/tookc/tookc_personification_tuna.jpeg" alt="虧獅擬人 - Tuna 系列" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -291,38 +321,6 @@
         
         
         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/welcome-to-museum/">歡迎來到博物館</a>
-	</h2>
-	<p class="excerpt">
-	   歡迎各位來到虧獅博物館！今次企劃集結一系列精選作品，希望令大家溫故知新。以下係簡單既介紹。
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#museum">Museum</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#commitee">Commitee</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Sep 14, 2022
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/welcome-to-museum/">
-	<img class="w-100" src="/assets/images/three_silly_orange_banner.jpeg" alt="歡迎來到博物館" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
         <div class="mt-5">
          <!-- Pagination links -->
             
@@ -340,9 +338,13 @@
                 <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
                 
               
+                
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                
+              
 
               
-                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+                <li class="page-item"><a class="page-link" href="/page3">Next &raquo;</a></li>
               
             </ul>
                   
