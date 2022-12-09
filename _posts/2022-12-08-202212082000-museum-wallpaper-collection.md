@@ -3,7 +3,7 @@ layout: post
 title:  "博物館系列禿頭獅子Wallpaper"
 categories: [ Collection  ]
 image: ./assets/images/museum/museum_wallpaper_202212.jpeg
-tags: [Wallpaper, 合集]
+tags: [Wallpaper, 合集, featured]
 ---
 博物館送俾大家既禿頭獅子 Wallpaper Collection<br> 
 祝大家使用愉快
