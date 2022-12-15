@@ -1,5 +1,6 @@
 # local test command
 bundle exec jekyll serve
+http://localhost:4000/
 
 # Jekyll Theme - Mundana by WowThemes.net
 
