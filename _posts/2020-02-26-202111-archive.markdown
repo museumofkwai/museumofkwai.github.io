@@ -36,7 +36,7 @@ tags: [Archive, 合集]
 <a href="https://twitter.com/Kyutori1/status/1461900027538788352">Original Tweet</a><br>
 
 嗚～哇～～ 12:37 PM · Nov 20, 2021
-![-]({{ site.baseurl }}/assets/images/archive/202111/archive_2021112002_99.jpeg)<br>
+![-]({{ site.baseurl }}/assets/images/archive/202111/archive_2021112002_song.jpeg)<br>
 <a href="https://twitter.com/song_fouru/status/1461916643345399812">Original Tweet</a><br>
 
 ## 2021-11-21
