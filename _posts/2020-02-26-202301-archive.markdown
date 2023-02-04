@@ -2,7 +2,7 @@
 layout: post
 title:  "禿頭獅子 202301 Archive"
 categories: [ Collection, Archive]
-image: assets/images/archive/202301/archive_20200926_99.jpeg
+image: assets/images/archive/202301/archive_2023013101_99.jpeg
 tags: [Archive, 合集]
 ---
 # 202301 Archive
